@@ -1,0 +1,7 @@
+// Read more @ https://en.wikipedia.org/wiki/Commonwealth_of_Independent_States
+//
+{
+  "countries": [
+    "am", "az", "by", "kz", "kg", "md", "ru", "tj", "uz"
+  ]
+}
