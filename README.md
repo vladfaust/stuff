@@ -7,7 +7,7 @@ A portion of Ruby re-usable code.
 Add this line to your application's Gemfile:
 
 ```ruby
-gem 'stuff', git: 'vladfaust/stuff'
+gem 'stuff', github: 'vladfaust/stuff'
 ```
 
 And then execute:
