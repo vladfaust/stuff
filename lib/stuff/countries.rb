@@ -7,10 +7,10 @@ module Stuff
 
     attr_reader :countries
 
-    Country = Struct.new(:country_code, :name, :emoji_flag)
+    Country = Struct.new(:country_code, :name, :emoji_flag, :localized_names)
 
     def initialize
-      @countries = JSON.parse(File.open(__dir__ + '/countries/countries.json', 'r:UTF-8', &:read)).map{ |c| Country.new(c.to_a[0], c.to_a[1]['name'], c.to_a[1]['emoji_flag']) }
+      @countries = JSON.parse(File.open(__dir__ + '/countries/countries.json', 'r:UTF-8', &:read)).map{ |c| Country.new(c.to_a[0], c.to_a[1]['name'], c.to_a[1]['emoji_flag'], c.to_a[1]['localized_names']) }
       @cis = JSON.parse(File.open(__dir__ + '/countries/cis.json', &:read))
     end
 
@@ -36,6 +36,14 @@ module Stuff
     #
     def find_by_name(name)
       @countries.find{ |c| c.name == name }
+    end
+
+    # @example
+    #   Countries.find_by_localized_name('Россия')
+    #   # => { name: 'Russia', country_code: 'ru', emoji_flag: '🇷🇺' }
+    #
+    def find_by_localized_name(localized_name, locale: nil)
+      @countries.find{ |c| locale ? c.localized_names[locale] == localized_name : c.localized_names.find{ |k, v| v == localized_name } }
     end
 
     # Check whether the country is in CIS

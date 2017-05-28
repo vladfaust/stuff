@@ -1,998 +1,1994 @@
 {
   "ad": {
     "emoji_flag": "🇦🇩",
-    "name": "Andorra"
+    "name": "Andorra",
+    "localized_names": {
+      "ru": "Андорра",
+      "en": "Andorra"
+    }
   },
   "ae": {
     "emoji_flag": "🇦🇪",
-    "name": "United Arab Emirates"
+    "name": "United Arab Emirates",
+    "localized_names": {
+      "ru": "ОАЭ",
+      "en": "United Arab Emirates"
+    }
   },
   "af": {
     "emoji_flag": "🇦🇫",
-    "name": "Afghanistan"
+    "name": "Afghanistan",
+    "localized_names": {
+      "ru": "Афганистан",
+      "en": "Afghanistan"
+    }
   },
   "ag": {
     "emoji_flag": "🇦🇬",
-    "name": "Antigua and Barbuda"
+    "name": "Antigua and Barbuda",
+    "localized_names": {
+      "ru": "Антигуа и Барбуда",
+      "en": "Antigua and Barbuda"
+    }
   },
   "ai": {
     "emoji_flag": "🇦🇮",
-    "name": "Anguilla"
+    "name": "Anguilla",
+    "localized_names": {
+      "ru": "Ангилья",
+      "en": "Anguilla"
+    }
   },
   "al": {
     "emoji_flag": "🇦🇱",
-    "name": "Albania"
+    "name": "Albania",
+    "localized_names": {
+      "ru": "Албания",
+      "en": "Albania"
+    }
   },
   "am": {
     "emoji_flag": "🇦🇲",
-    "name": "Armenia"
+    "name": "Armenia",
+    "localized_names": {
+      "ru": "Армения",
+      "en": "Armenia"
+    }
   },
   "ao": {
     "emoji_flag": "🇦🇴",
-    "name": "Angola"
+    "name": "Angola",
+    "localized_names": {
+      "ru": "Ангола",
+      "en": "Angola"
+    }
   },
   "aq": {
     "emoji_flag": "🇦🇶",
-    "name": "Antarctica"
+    "name": "Antarctica",
+    "localized_names": {
+      "ru": "Антарктида",
+      "en": "Antarctica"
+    }
   },
   "ar": {
     "emoji_flag": "🇦🇷",
-    "name": "Argentina"
+    "name": "Argentina",
+    "localized_names": {
+      "ru": "Аргентина",
+      "en": "Argentina"
+    }
   },
   "as": {
     "emoji_flag": "🇦🇸",
-    "name": "American Samoa"
+    "name": "American Samoa",
+    "localized_names": {
+      "ru": "Американское Самоа",
+      "en": "American Samoa"
+    }
   },
   "at": {
     "emoji_flag": "🇦🇹",
-    "name": "Austria"
+    "name": "Austria",
+    "localized_names": {
+      "ru": "Австрия",
+      "en": "Austria"
+    }
   },
   "au": {
     "emoji_flag": "🇦🇺",
-    "name": "Australia"
+    "name": "Australia",
+    "localized_names": {
+      "ru": "Австралия",
+      "en": "Australia"
+    }
   },
   "aw": {
     "emoji_flag": "🇦🇼",
-    "name": "Aruba"
+    "name": "Aruba",
+    "localized_names": {
+      "ru": "Аруба",
+      "en": "Aruba"
+    }
   },
   "ax": {
     "emoji_flag": "🇦🇽",
-    "name": "Åland Islands"
+    "name": "Åland Islands",
+    "localized_names": {
+      "ru": "Аландские острова",
+      "en": "Åland Islands"
+    }
   },
   "az": {
     "emoji_flag": "🇦🇿",
-    "name": "Azerbaijan"
+    "name": "Azerbaijan",
+    "localized_names": {
+      "ru": "Азербайджан",
+      "en": "Azerbaijan"
+    }
   },
   "ba": {
     "emoji_flag": "🇧🇦",
-    "name": "Bosnia and Herzegovina"
+    "name": "Bosnia and Herzegovina",
+    "localized_names": {
+      "ru": "Босния и Герцеговина",
+      "en": "Bosnia and Herzegovina"
+    }
   },
   "bb": {
     "emoji_flag": "🇧🇧",
-    "name": "Barbados"
+    "name": "Barbados",
+    "localized_names": {
+      "ru": "Барбадос",
+      "en": "Barbados"
+    }
   },
   "bd": {
     "emoji_flag": "🇧🇩",
-    "name": "Bangladesh"
+    "name": "Bangladesh",
+    "localized_names": {
+      "ru": "Бангладеш",
+      "en": "Bangladesh"
+    }
   },
   "be": {
     "emoji_flag": "🇧🇪",
-    "name": "Belgium"
+    "name": "Belgium",
+    "localized_names": {
+      "ru": "Бельгия",
+      "en": "Belgium"
+    }
   },
   "bf": {
     "emoji_flag": "🇧🇫",
-    "name": "Burkina Faso"
+    "name": "Burkina Faso",
+    "localized_names": {
+      "ru": "Буркина-Фасо",
+      "en": "Burkina Faso"
+    }
   },
   "bg": {
     "emoji_flag": "🇧🇬",
-    "name": "Bulgaria"
+    "name": "Bulgaria",
+    "localized_names": {
+      "ru": "Болгария",
+      "en": "Bulgaria"
+    }
   },
   "bh": {
     "emoji_flag": "🇧🇭",
-    "name": "Bahrain"
+    "name": "Bahrain",
+    "localized_names": {
+      "ru": "Бахрейн",
+      "en": "Bahrain"
+    }
   },
   "bi": {
     "emoji_flag": "🇧🇮",
-    "name": "Burundi"
+    "name": "Burundi",
+    "localized_names": {
+      "ru": "Бурунди",
+      "en": "Burundi"
+    }
   },
   "bj": {
     "emoji_flag": "🇧🇯",
-    "name": "Benin"
+    "name": "Benin",
+    "localized_names": {
+      "ru": "Бенин",
+      "en": "Benin"
+    }
   },
   "bl": {
     "emoji_flag": "🇧🇱",
-    "name": "Saint Barthélemy"
+    "name": "Saint Barthélemy",
+    "localized_names": {
+      "ru": "Сен-Бартелеми",
+      "en": "Saint Barthélemy"
+    }
   },
   "bm": {
     "emoji_flag": "🇧🇲",
-    "name": "Bermuda"
+    "name": "Bermuda",
+    "localized_names": {
+      "ru": "Бермуды",
+      "en": "Bermuda"
+    }
   },
   "bn": {
     "emoji_flag": "🇧🇳",
-    "name": "Brunei Darussalam"
+    "name": "Brunei Darussalam",
+    "localized_names": {
+      "ru": "Бруней",
+      "en": "Brunei Darussalam"
+    }
   },
   "bo": {
     "emoji_flag": "🇧🇴",
-    "name": "Bolivia"
+    "name": "Bolivia",
+    "localized_names": {
+      "ru": "Боливия",
+      "en": "Bolivia"
+    }
   },
   "bq": {
     "emoji_flag": "🇧🇶",
-    "name": "Bonaire, Sint Eustatius and Saba"
+    "name": "Bonaire, Sint Eustatius and Saba",
+    "localized_names": {
+      "ru": "Бонэйр, Синт-Эстатиус и Саба",
+      "en": "Bonaire, Sint Eustatius and Saba"
+    }
   },
   "br": {
     "emoji_flag": "🇧🇷",
-    "name": "Brazil"
+    "name": "Brazil",
+    "localized_names": {
+      "ru": "Бразилия",
+      "en": "Brazil"
+    }
   },
   "bs": {
     "emoji_flag": "🇧🇸",
-    "name": "Bahamas"
+    "name": "Bahamas",
+    "localized_names": {
+      "ru": "Багамы",
+      "en": "Bahamas"
+    }
   },
   "bt": {
     "emoji_flag": "🇧🇹",
-    "name": "Bhutan"
+    "name": "Bhutan",
+    "localized_names": {
+      "ru": "Бутан",
+      "en": "Bhutan"
+    }
   },
   "bv": {
     "emoji_flag": "🇧🇻",
-    "name": "Bouvet Island"
+    "name": "Bouvet Island",
+    "localized_names": {
+      "ru": "Остров Буве",
+      "en": "Bouvet Island"
+    }
   },
   "bw": {
     "emoji_flag": "🇧🇼",
-    "name": "Botswana"
+    "name": "Botswana",
+    "localized_names": {
+      "ru": "Ботсвана",
+      "en": "Botswana"
+    }
   },
   "by": {
     "emoji_flag": "🇧🇾",
-    "name": "Belarus"
+    "name": "Belarus",
+    "localized_names": {
+      "ru": "Белоруссия",
+      "en": "Belarus"
+    }
   },
   "bz": {
     "emoji_flag": "🇧🇿",
-    "name": "Belize"
+    "name": "Belize",
+    "localized_names": {
+      "ru": "Белиз",
+      "en": "Belize"
+    }
   },
   "ca": {
     "emoji_flag": "🇨🇦",
-    "name": "Canada"
+    "name": "Canada",
+    "localized_names": {
+      "ru": "Канада",
+      "en": "Canada"
+    }
   },
   "cc": {
     "emoji_flag": "🇨🇨",
-    "name": "Cocos (Keeling) Islands"
+    "name": "Cocos (Keeling) Islands",
+    "localized_names": {
+      "ru": "Кокосовые острова",
+      "en": "Cocos (Keeling) Islands"
+    }
   },
   "cd": {
     "emoji_flag": "🇨🇩",
-    "name": "Congo"
+    "name": "Congo",
+    "localized_names": {
+      "ru": "Демократическая Республика Конго",
+      "en": "Congo"
+    }
   },
   "cf": {
     "emoji_flag": "🇨🇫",
-    "name": "Central African Republic"
+    "name": "Central African Republic",
+    "localized_names": {
+      "ru": "ЦАР",
+      "en": "Central African Republic"
+    }
   },
   "cg": {
     "emoji_flag": "🇨🇬",
-    "name": "Congo"
+    "name": "Congo",
+    "localized_names": {
+      "ru": "Республика Конго",
+      "en": "Congo"
+    }
   },
   "ch": {
     "emoji_flag": "🇨🇭",
-    "name": "Switzerland"
+    "name": "Switzerland",
+    "localized_names": {
+      "ru": "Швейцария",
+      "en": "Switzerland"
+    }
   },
   "ci": {
     "emoji_flag": "🇨🇮",
-    "name": "Côte D'Ivoire"
+    "name": "Côte D'Ivoire",
+    "localized_names": {
+      "ru": "Кот-д’Ивуар",
+      "en": "Côte D'Ivoire"
+    }
   },
   "ck": {
     "emoji_flag": "🇨🇰",
-    "name": "Cook Islands"
+    "name": "Cook Islands",
+    "localized_names": {
+      "ru": "Острова Кука",
+      "en": "Cook Islands"
+    }
   },
   "cl": {
     "emoji_flag": "🇨🇱",
-    "name": "Chile"
+    "name": "Chile",
+    "localized_names": {
+      "ru": "Чили",
+      "en": "Chile"
+    }
   },
   "cm": {
     "emoji_flag": "🇨🇲",
-    "name": "Cameroon"
+    "name": "Cameroon",
+    "localized_names": {
+      "ru": "Камерун",
+      "en": "Cameroon"
+    }
   },
   "cn": {
     "emoji_flag": "🇨🇳",
-    "name": "China"
+    "name": "China",
+    "localized_names": {
+      "ru": "КНР (Китайская Народная Республика)",
+      "en": "China"
+    }
   },
   "co": {
     "emoji_flag": "🇨🇴",
-    "name": "Colombia"
+    "name": "Colombia",
+    "localized_names": {
+      "ru": "Колумбия",
+      "en": "Colombia"
+    }
   },
   "cr": {
     "emoji_flag": "🇨🇷",
-    "name": "Costa Rica"
+    "name": "Costa Rica",
+    "localized_names": {
+      "ru": "Коста-Рика",
+      "en": "Costa Rica"
+    }
   },
   "cu": {
     "emoji_flag": "🇨🇺",
-    "name": "Cuba"
+    "name": "Cuba",
+    "localized_names": {
+      "ru": "Куба",
+      "en": "Cuba"
+    }
   },
   "cv": {
     "emoji_flag": "🇨🇻",
-    "name": "Cape Verde"
+    "name": "Cape Verde",
+    "localized_names": {
+      "ru": "Кабо-Верде",
+      "en": "Cape Verde"
+    }
   },
   "cw": {
     "emoji_flag": "🇨🇼",
-    "name": "Curaçao"
+    "name": "Curaçao",
+    "localized_names": {
+      "ru": "Кюрасао",
+      "en": "Curaçao"
+    }
   },
   "cx": {
     "emoji_flag": "🇨🇽",
-    "name": "Christmas Island"
+    "name": "Christmas Island",
+    "localized_names": {
+      "ru": "Остров Рождества",
+      "en": "Christmas Island"
+    }
   },
   "cy": {
     "emoji_flag": "🇨🇾",
-    "name": "Cyprus"
+    "name": "Cyprus",
+    "localized_names": {
+      "ru": "Кипр",
+      "en": "Cyprus"
+    }
   },
   "cz": {
     "emoji_flag": "🇨🇿",
-    "name": "Czech Republic"
+    "name": "Czech Republic",
+    "localized_names": {
+      "ru": "Чехия",
+      "en": "Czech Republic"
+    }
   },
   "de": {
     "emoji_flag": "🇩🇪",
-    "name": "Germany"
+    "name": "Germany",
+    "localized_names": {
+      "ru": "Германия",
+      "en": "Germany"
+    }
   },
   "dj": {
     "emoji_flag": "🇩🇯",
-    "name": "Djibouti"
+    "name": "Djibouti",
+    "localized_names": {
+      "ru": "Джибути",
+      "en": "Djibouti"
+    }
   },
   "dk": {
     "emoji_flag": "🇩🇰",
-    "name": "Denmark"
+    "name": "Denmark",
+    "localized_names": {
+      "ru": "Дания",
+      "en": "Denmark"
+    }
   },
   "dm": {
     "emoji_flag": "🇩🇲",
-    "name": "Dominica"
+    "name": "Dominica",
+    "localized_names": {
+      "ru": "Доминика",
+      "en": "Dominica"
+    }
   },
   "do": {
     "emoji_flag": "🇩🇴",
-    "name": "Dominican Republic"
+    "name": "Dominican Republic",
+    "localized_names": {
+      "ru": "Доминиканская Республика",
+      "en": "Dominican Republic"
+    }
   },
   "dz": {
     "emoji_flag": "🇩🇿",
-    "name": "Algeria"
+    "name": "Algeria",
+    "localized_names": {
+      "ru": "Алжир",
+      "en": "Algeria"
+    }
   },
   "ec": {
     "emoji_flag": "🇪🇨",
-    "name": "Ecuador"
+    "name": "Ecuador",
+    "localized_names": {
+      "ru": "Эквадор",
+      "en": "Ecuador"
+    }
   },
   "ee": {
     "emoji_flag": "🇪🇪",
-    "name": "Estonia"
+    "name": "Estonia",
+    "localized_names": {
+      "ru": "Эстония",
+      "en": "Estonia"
+    }
   },
   "eg": {
     "emoji_flag": "🇪🇬",
-    "name": "Egypt"
+    "name": "Egypt",
+    "localized_names": {
+      "ru": "Египет",
+      "en": "Egypt"
+    }
   },
   "eh": {
     "emoji_flag": "🇪🇭",
-    "name": "Western Sahara"
+    "name": "Western Sahara",
+    "localized_names": {
+      "ru": "САДР",
+      "en": "Western Sahara"
+    }
   },
   "er": {
     "emoji_flag": "🇪🇷",
-    "name": "Eritrea"
+    "name": "Eritrea",
+    "localized_names": {
+      "ru": "Эритрея",
+      "en": "Eritrea"
+    }
   },
   "es": {
     "emoji_flag": "🇪🇸",
-    "name": "Spain"
+    "name": "Spain",
+    "localized_names": {
+      "ru": "Испания",
+      "en": "Spain"
+    }
   },
   "et": {
     "emoji_flag": "🇪🇹",
-    "name": "Ethiopia"
+    "name": "Ethiopia",
+    "localized_names": {
+      "ru": "Эфиопия",
+      "en": "Ethiopia"
+    }
   },
   "no": {
     "emoji_flag": "🇳🇴",
-    "name": "Norway"
+    "name": "Norway",
+    "localized_names": {
+      "ru": "Норвегия",
+      "en": "Norway"
+    }
   },
   "fi": {
     "emoji_flag": "🇫🇮",
-    "name": "Finland"
+    "name": "Finland",
+    "localized_names": {
+      "ru": "Финляндия",
+      "en": "Finland"
+    }
   },
   "fj": {
     "emoji_flag": "🇫🇯",
-    "name": "Fiji"
+    "name": "Fiji",
+    "localized_names": {
+      "ru": "Фиджи",
+      "en": "Fiji"
+    }
   },
   "fk": {
     "emoji_flag": "🇫🇰",
-    "name": "Falkland Islands (Malvinas)"
+    "name": "Falkland Islands (Malvinas)",
+    "localized_names": {
+      "ru": "Фолклендские острова",
+      "en": "Falkland Islands (Malvinas)"
+    }
   },
   "fm": {
     "emoji_flag": "🇫🇲",
-    "name": "Micronesia"
+    "name": "Micronesia",
+    "localized_names": {
+      "ru": "Микронезия",
+      "en": "Micronesia"
+    }
   },
   "fo": {
     "emoji_flag": "🇫🇴",
-    "name": "Faroe Islands"
+    "name": "Faroe Islands",
+    "localized_names": {
+      "ru": "Фареры",
+      "en": "Faroe Islands"
+    }
   },
   "fr": {
     "emoji_flag": "🇫🇷",
-    "name": "France"
+    "name": "France",
+    "localized_names": {
+      "ru": "Франция",
+      "en": "France"
+    }
   },
   "ga": {
     "emoji_flag": "🇬🇦",
-    "name": "Gabon"
+    "name": "Gabon",
+    "localized_names": {
+      "ru": "Габон",
+      "en": "Gabon"
+    }
   },
   "gb": {
     "emoji_flag": "🇬🇧",
-    "name": "United Kingdom"
+    "name": "United Kingdom",
+    "localized_names": {
+      "ru": "Великобритания",
+      "en": "United Kingdom"
+    }
   },
   "gd": {
     "emoji_flag": "🇬🇩",
-    "name": "Grenada"
+    "name": "Grenada",
+    "localized_names": {
+      "ru": "Гренада",
+      "en": "Grenada"
+    }
   },
   "ge": {
     "emoji_flag": "🇬🇪",
-    "name": "Georgia"
+    "name": "Georgia",
+    "localized_names": {
+      "ru": "Грузия",
+      "en": "Georgia"
+    }
   },
   "gf": {
     "emoji_flag": "🇬🇫",
-    "name": "French Guiana"
+    "name": "French Guiana",
+    "localized_names": {
+      "ru": "Гвиана",
+      "en": "French Guiana"
+    }
   },
   "gg": {
     "emoji_flag": "🇬🇬",
-    "name": "Guernsey"
+    "name": "Guernsey",
+    "localized_names": {
+      "ru": "Гернси",
+      "en": "Guernsey"
+    }
   },
   "gh": {
     "emoji_flag": "🇬🇭",
-    "name": "Ghana"
+    "name": "Ghana",
+    "localized_names": {
+      "ru": "Гана",
+      "en": "Ghana"
+    }
   },
   "gi": {
     "emoji_flag": "🇬🇮",
-    "name": "Gibraltar"
+    "name": "Gibraltar",
+    "localized_names": {
+      "ru": "Гибралтар",
+      "en": "Gibraltar"
+    }
   },
   "gl": {
     "emoji_flag": "🇬🇱",
-    "name": "Greenland"
+    "name": "Greenland",
+    "localized_names": {
+      "ru": "Гренландия",
+      "en": "Greenland"
+    }
   },
   "gm": {
     "emoji_flag": "🇬🇲",
-    "name": "Gambia"
+    "name": "Gambia",
+    "localized_names": {
+      "ru": "Гамбия",
+      "en": "Gambia"
+    }
   },
   "gn": {
     "emoji_flag": "🇬🇳",
-    "name": "Guinea"
+    "name": "Guinea",
+    "localized_names": {
+      "ru": "Гвинея",
+      "en": "Guinea"
+    }
   },
   "gp": {
     "emoji_flag": "🇬🇵",
-    "name": "Guadeloupe"
+    "name": "Guadeloupe",
+    "localized_names": {
+      "ru": "Гваделупа",
+      "en": "Guadeloupe"
+    }
   },
   "gq": {
     "emoji_flag": "🇬🇶",
-    "name": "Equatorial Guinea"
+    "name": "Equatorial Guinea",
+    "localized_names": {
+      "ru": "Экваториальная Гвинея",
+      "en": "Equatorial Guinea"
+    }
   },
   "gr": {
     "emoji_flag": "🇬🇷",
-    "name": "Greece"
+    "name": "Greece",
+    "localized_names": {
+      "ru": "Греция",
+      "en": "Greece"
+    }
   },
   "gs": {
     "emoji_flag": "🇬🇸",
-    "name": "South Georgia"
+    "name": "South Georgia",
+    "localized_names": {
+      "ru": "Южная Георгия и Южные Сандвичевы Острова",
+      "en": "South Georgia"
+    }
   },
   "gt": {
     "emoji_flag": "🇬🇹",
-    "name": "Guatemala"
+    "name": "Guatemala",
+    "localized_names": {
+      "ru": "Гватемала",
+      "en": "Guatemala"
+    }
   },
   "gu": {
     "emoji_flag": "🇬🇺",
-    "name": "Guam"
+    "name": "Guam",
+    "localized_names": {
+      "ru": "Гуам",
+      "en": "Guam"
+    }
   },
   "gw": {
     "emoji_flag": "🇬🇼",
-    "name": "Guinea-Bissau"
+    "name": "Guinea-Bissau",
+    "localized_names": {
+      "ru": "Гвинея-Бисау",
+      "en": "Guinea-Bissau"
+    }
   },
   "gy": {
     "emoji_flag": "🇬🇾",
-    "name": "Guyana"
+    "name": "Guyana",
+    "localized_names": {
+      "ru": "Гайана",
+      "en": "Guyana"
+    }
   },
   "hk": {
     "emoji_flag": "🇭🇰",
-    "name": "Hong Kong"
+    "name": "Hong Kong",
+    "localized_names": {
+      "ru": "Гонконг",
+      "en": "Hong Kong"
+    }
   },
   "hm": {
     "emoji_flag": "🇭🇲",
-    "name": "Heard Island and Mcdonald Islands"
+    "name": "Heard Island and Mcdonald Islands",
+    "localized_names": {
+      "ru": "Херд и Макдональд",
+      "en": "Heard Island and Mcdonald Islands"
+    }
   },
   "hn": {
     "emoji_flag": "🇭🇳",
-    "name": "Honduras"
+    "name": "Honduras",
+    "localized_names": {
+      "ru": "Гондурас",
+      "en": "Honduras"
+    }
   },
   "hr": {
     "emoji_flag": "🇭🇷",
-    "name": "Croatia"
+    "name": "Croatia",
+    "localized_names": {
+      "ru": "Хорватия",
+      "en": "Croatia"
+    }
   },
   "ht": {
     "emoji_flag": "🇭🇹",
-    "name": "Haiti"
+    "name": "Haiti",
+    "localized_names": {
+      "ru": "Гаити",
+      "en": "Haiti"
+    }
   },
   "hu": {
     "emoji_flag": "🇭🇺",
-    "name": "Hungary"
+    "name": "Hungary",
+    "localized_names": {
+      "ru": "Венгрия",
+      "en": "Hungary"
+    }
   },
   "id": {
     "emoji_flag": "🇮🇩",
-    "name": "Indonesia"
+    "name": "Indonesia",
+    "localized_names": {
+      "ru": "Индонезия",
+      "en": "Indonesia"
+    }
   },
   "ie": {
     "emoji_flag": "🇮🇪",
-    "name": "Ireland"
+    "name": "Ireland",
+    "localized_names": {
+      "ru": "Ирландия",
+      "en": "Ireland"
+    }
   },
   "il": {
     "emoji_flag": "🇮🇱",
-    "name": "Israel"
+    "name": "Israel",
+    "localized_names": {
+      "ru": "Израиль",
+      "en": "Israel"
+    }
   },
   "im": {
     "emoji_flag": "🇮🇲",
-    "name": "Isle of Man"
+    "name": "Isle of Man",
+    "localized_names": {
+      "ru": "Остров Мэн",
+      "en": "Isle of Man"
+    }
   },
   "in": {
     "emoji_flag": "🇮🇳",
-    "name": "India"
+    "name": "India",
+    "localized_names": {
+      "ru": "Индия Индия",
+      "en": "India"
+    }
   },
   "io": {
     "emoji_flag": "🇮🇴",
-    "name": "British Indian Ocean Territory"
+    "name": "British Indian Ocean Territory",
+    "localized_names": {
+      "ru": "Британская территория в Индийском океане",
+      "en": "British Indian Ocean Territory"
+    }
   },
   "iq": {
     "emoji_flag": "🇮🇶",
-    "name": "Iraq"
+    "name": "Iraq",
+    "localized_names": {
+      "ru": "Ирак",
+      "en": "Iraq"
+    }
   },
   "ir": {
     "emoji_flag": "🇮🇷",
-    "name": "Iran"
+    "name": "Iran",
+    "localized_names": {
+      "ru": "Иран",
+      "en": "Iran"
+    }
   },
   "is": {
     "emoji_flag": "🇮🇸",
-    "name": "Iceland"
+    "name": "Iceland",
+    "localized_names": {
+      "ru": "Исландия",
+      "en": "Iceland"
+    }
   },
   "it": {
     "emoji_flag": "🇮🇹",
-    "name": "Italy"
+    "name": "Italy",
+    "localized_names": {
+      "ru": "Италия",
+      "en": "Italy"
+    }
   },
   "je": {
     "emoji_flag": "🇯🇪",
-    "name": "Jersey"
+    "name": "Jersey",
+    "localized_names": {
+      "ru": "Джерси",
+      "en": "Jersey"
+    }
   },
   "jm": {
     "emoji_flag": "🇯🇲",
-    "name": "Jamaica"
+    "name": "Jamaica",
+    "localized_names": {
+      "ru": "Ямайка",
+      "en": "Jamaica"
+    }
   },
   "jo": {
     "emoji_flag": "🇯🇴",
-    "name": "Jordan"
+    "name": "Jordan",
+    "localized_names": {
+      "ru": "Иордания",
+      "en": "Jordan"
+    }
   },
   "jp": {
     "emoji_flag": "🇯🇵",
-    "name": "Japan"
+    "name": "Japan",
+    "localized_names": {
+      "ru": "Япония",
+      "en": "Japan"
+    }
   },
   "ke": {
     "emoji_flag": "🇰🇪",
-    "name": "Kenya"
+    "name": "Kenya",
+    "localized_names": {
+      "ru": "Кения",
+      "en": "Kenya"
+    }
   },
   "kg": {
     "emoji_flag": "🇰🇬",
-    "name": "Kyrgyzstan"
+    "name": "Kyrgyzstan",
+    "localized_names": {
+      "ru": "Киргизия",
+      "en": "Kyrgyzstan"
+    }
   },
   "kh": {
     "emoji_flag": "🇰🇭",
-    "name": "Cambodia"
+    "name": "Cambodia",
+    "localized_names": {
+      "ru": "Камбоджа",
+      "en": "Cambodia"
+    }
   },
   "ki": {
     "emoji_flag": "🇰🇮",
-    "name": "Kiribati"
+    "name": "Kiribati",
+    "localized_names": {
+      "ru": "Кирибати",
+      "en": "Kiribati"
+    }
   },
   "km": {
     "emoji_flag": "🇰🇲",
-    "name": "Comoros"
+    "name": "Comoros",
+    "localized_names": {
+      "ru": "Коморы",
+      "en": "Comoros"
+    }
   },
   "kn": {
     "emoji_flag": "🇰🇳",
-    "name": "Saint Kitts and Nevis"
+    "name": "Saint Kitts and Nevis",
+    "localized_names": {
+      "ru": "Сент-Китс и Невис",
+      "en": "Saint Kitts and Nevis"
+    }
   },
   "kp": {
     "emoji_flag": "🇰🇵",
-    "name": "North Korea"
+    "name": "North Korea",
+    "localized_names": {
+      "ru": "КНДР (Корейская Народно-Демократическая Республика)",
+      "en": "North Korea"
+    }
   },
   "kr": {
     "emoji_flag": "🇰🇷",
-    "name": "South Korea"
+    "name": "South Korea",
+    "localized_names": {
+      "ru": "Республика Корея",
+      "en": "South Korea"
+    }
   },
   "kw": {
     "emoji_flag": "🇰🇼",
-    "name": "Kuwait"
+    "name": "Kuwait",
+    "localized_names": {
+      "ru": "Кувейт",
+      "en": "Kuwait"
+    }
   },
   "ky": {
     "emoji_flag": "🇰🇾",
-    "name": "Cayman Islands"
+    "name": "Cayman Islands",
+    "localized_names": {
+      "ru": "Острова Кайман",
+      "en": "Cayman Islands"
+    }
   },
   "kz": {
     "emoji_flag": "🇰🇿",
-    "name": "Kazakhstan"
+    "name": "Kazakhstan",
+    "localized_names": {
+      "ru": "Казахстан",
+      "en": "Kazakhstan"
+    }
   },
   "la": {
     "emoji_flag": "🇱🇦",
-    "name": "Lao People's Democratic Republic"
+    "name": "Lao People's Democratic Republic",
+    "localized_names": {
+      "ru": "Лаос",
+      "en": "Lao People's Democratic Republic"
+    }
   },
   "lb": {
     "emoji_flag": "🇱🇧",
-    "name": "Lebanon"
+    "name": "Lebanon",
+    "localized_names": {
+      "ru": "Ливан",
+      "en": "Lebanon"
+    }
   },
   "lc": {
     "emoji_flag": "🇱🇨",
-    "name": "Saint Lucia"
+    "name": "Saint Lucia",
+    "localized_names": {
+      "ru": "Сент-Люсия",
+      "en": "Saint Lucia"
+    }
   },
   "li": {
     "emoji_flag": "🇱🇮",
-    "name": "Liechtenstein"
+    "name": "Liechtenstein",
+    "localized_names": {
+      "ru": "Лихтенштейн",
+      "en": "Liechtenstein"
+    }
   },
   "lk": {
     "emoji_flag": "🇱🇰",
-    "name": "Sri Lanka"
+    "name": "Sri Lanka",
+    "localized_names": {
+      "ru": "Шри-Ланка",
+      "en": "Sri Lanka"
+    }
   },
   "lr": {
     "emoji_flag": "🇱🇷",
-    "name": "Liberia"
+    "name": "Liberia",
+    "localized_names": {
+      "ru": "Либерия",
+      "en": "Liberia"
+    }
   },
   "ls": {
     "emoji_flag": "🇱🇸",
-    "name": "Lesotho"
+    "name": "Lesotho",
+    "localized_names": {
+      "ru": "Лесото",
+      "en": "Lesotho"
+    }
   },
   "lt": {
     "emoji_flag": "🇱🇹",
-    "name": "Lithuania"
+    "name": "Lithuania",
+    "localized_names": {
+      "ru": "Литва",
+      "en": "Lithuania"
+    }
   },
   "lu": {
     "emoji_flag": "🇱🇺",
-    "name": "Luxembourg"
+    "name": "Luxembourg",
+    "localized_names": {
+      "ru": "Люксембург",
+      "en": "Luxembourg"
+    }
   },
   "lv": {
     "emoji_flag": "🇱🇻",
-    "name": "Latvia"
+    "name": "Latvia",
+    "localized_names": {
+      "ru": "Латвия",
+      "en": "Latvia"
+    }
   },
   "ly": {
     "emoji_flag": "🇱🇾",
-    "name": "Libya"
+    "name": "Libya",
+    "localized_names": {
+      "ru": "Ливия",
+      "en": "Libya"
+    }
   },
   "ma": {
     "emoji_flag": "🇲🇦",
-    "name": "Morocco"
+    "name": "Morocco",
+    "localized_names": {
+      "ru": "Марокко",
+      "en": "Morocco"
+    }
   },
   "mc": {
     "emoji_flag": "🇲🇨",
-    "name": "Monaco"
+    "name": "Monaco",
+    "localized_names": {
+      "ru": "Монако",
+      "en": "Monaco"
+    }
   },
   "md": {
     "emoji_flag": "🇲🇩",
-    "name": "Moldova"
+    "name": "Moldova",
+    "localized_names": {
+      "ru": "Молдавия",
+      "en": "Moldova"
+    }
   },
   "me": {
     "emoji_flag": "🇲🇪",
-    "name": "Montenegro"
+    "name": "Montenegro",
+    "localized_names": {
+      "ru": "Черногория",
+      "en": "Montenegro"
+    }
   },
   "mf": {
     "emoji_flag": "🇲🇫",
-    "name": "Saint Martin (French Part)"
+    "name": "Saint Martin (French Part)",
+    "localized_names": {
+      "ru": "Сен-Мартен",
+      "en": "Saint Martin (French Part)"
+    }
   },
   "mg": {
     "emoji_flag": "🇲🇬",
-    "name": "Madagascar"
+    "name": "Madagascar",
+    "localized_names": {
+      "ru": "Мадагаскар",
+      "en": "Madagascar"
+    }
   },
   "mh": {
     "emoji_flag": "🇲🇭",
-    "name": "Marshall Islands"
+    "name": "Marshall Islands",
+    "localized_names": {
+      "ru": "Маршалловы Острова",
+      "en": "Marshall Islands"
+    }
   },
   "mk": {
     "emoji_flag": "🇲🇰",
-    "name": "Macedonia"
+    "name": "Macedonia",
+    "localized_names": {
+      "ru": "Македония",
+      "en": "Macedonia"
+    }
   },
   "ml": {
     "emoji_flag": "🇲🇱",
-    "name": "Mali"
+    "name": "Mali",
+    "localized_names": {
+      "ru": "Мали",
+      "en": "Mali"
+    }
   },
   "mm": {
     "emoji_flag": "🇲🇲",
-    "name": "Myanmar"
+    "name": "Myanmar",
+    "localized_names": {
+      "ru": "Мьянма",
+      "en": "Myanmar"
+    }
   },
   "mn": {
     "emoji_flag": "🇲🇳",
-    "name": "Mongolia"
+    "name": "Mongolia",
+    "localized_names": {
+      "ru": "Монголия",
+      "en": "Mongolia"
+    }
   },
   "mo": {
     "emoji_flag": "🇲🇴",
-    "name": "Macao"
+    "name": "Macao",
+    "localized_names": {
+      "ru": "Макао",
+      "en": "Macao"
+    }
   },
   "mp": {
     "emoji_flag": "🇲🇵",
-    "name": "Northern Mariana Islands"
+    "name": "Northern Mariana Islands",
+    "localized_names": {
+      "ru": "Северные Марианские Острова",
+      "en": "Northern Mariana Islands"
+    }
   },
   "mq": {
     "emoji_flag": "🇲🇶",
-    "name": "Martinique"
+    "name": "Martinique",
+    "localized_names": {
+      "ru": "Мартиника",
+      "en": "Martinique"
+    }
   },
   "mr": {
     "emoji_flag": "🇲🇷",
-    "name": "Mauritania"
+    "name": "Mauritania",
+    "localized_names": {
+      "ru": "Мавритания",
+      "en": "Mauritania"
+    }
   },
   "ms": {
     "emoji_flag": "🇲🇸",
-    "name": "Montserrat"
+    "name": "Montserrat",
+    "localized_names": {
+      "ru": "Монтсеррат",
+      "en": "Montserrat"
+    }
   },
   "mt": {
     "emoji_flag": "🇲🇹",
-    "name": "Malta"
+    "name": "Malta",
+    "localized_names": {
+      "ru": "Мальта",
+      "en": "Malta"
+    }
   },
   "mu": {
     "emoji_flag": "🇲🇺",
-    "name": "Mauritius"
+    "name": "Mauritius",
+    "localized_names": {
+      "ru": "Маврикий",
+      "en": "Mauritius"
+    }
   },
   "mv": {
     "emoji_flag": "🇲🇻",
-    "name": "Maldives"
+    "name": "Maldives",
+    "localized_names": {
+      "ru": "Мальдивы",
+      "en": "Maldives"
+    }
   },
   "mw": {
     "emoji_flag": "🇲🇼",
-    "name": "Malawi"
+    "name": "Malawi",
+    "localized_names": {
+      "ru": "Малави",
+      "en": "Malawi"
+    }
   },
   "mx": {
     "emoji_flag": "🇲🇽",
-    "name": "Mexico"
+    "name": "Mexico",
+    "localized_names": {
+      "ru": "Мексика",
+      "en": "Mexico"
+    }
   },
   "my": {
     "emoji_flag": "🇲🇾",
-    "name": "Malaysia"
+    "name": "Malaysia",
+    "localized_names": {
+      "ru": "Малайзия",
+      "en": "Malaysia"
+    }
   },
   "mz": {
     "emoji_flag": "🇲🇿",
-    "name": "Mozambique"
+    "name": "Mozambique",
+    "localized_names": {
+      "ru": "Мозамбик",
+      "en": "Mozambique"
+    }
   },
   "na": {
     "emoji_flag": "🇳🇦",
-    "name": "Namibia"
+    "name": "Namibia",
+    "localized_names": {
+      "ru": "Намибия",
+      "en": "Namibia"
+    }
   },
   "nc": {
     "emoji_flag": "🇳🇨",
-    "name": "New Caledonia"
+    "name": "New Caledonia",
+    "localized_names": {
+      "ru": "Новая Каледония",
+      "en": "New Caledonia"
+    }
   },
   "ne": {
     "emoji_flag": "🇳🇪",
-    "name": "Niger"
+    "name": "Niger",
+    "localized_names": {
+      "ru": "Нигер",
+      "en": "Niger"
+    }
   },
   "nf": {
     "emoji_flag": "🇳🇫",
-    "name": "Norfolk Island"
+    "name": "Norfolk Island",
+    "localized_names": {
+      "ru": "Остров Норфолк",
+      "en": "Norfolk Island"
+    }
   },
   "ng": {
     "emoji_flag": "🇳🇬",
-    "name": "Nigeria"
+    "name": "Nigeria",
+    "localized_names": {
+      "ru": "Нигерия",
+      "en": "Nigeria"
+    }
   },
   "ni": {
     "emoji_flag": "🇳🇮",
-    "name": "Nicaragua"
+    "name": "Nicaragua",
+    "localized_names": {
+      "ru": "Никарагуа",
+      "en": "Nicaragua"
+    }
   },
   "nl": {
     "emoji_flag": "🇳🇱",
-    "name": "Netherlands"
+    "name": "Netherlands",
+    "localized_names": {
+      "ru": "Нидерланды",
+      "en": "Netherlands"
+    }
   },
   "np": {
     "emoji_flag": "🇳🇵",
-    "name": "Nepal"
+    "name": "Nepal",
+    "localized_names": {
+      "ru": "border-none Непал",
+      "en": "Nepal"
+    }
   },
   "nr": {
     "emoji_flag": "🇳🇷",
-    "name": "Nauru"
+    "name": "Nauru",
+    "localized_names": {
+      "ru": "Науру",
+      "en": "Nauru"
+    }
   },
   "nu": {
     "emoji_flag": "🇳🇺",
-    "name": "Niue"
+    "name": "Niue",
+    "localized_names": {
+      "ru": "Ниуэ",
+      "en": "Niue"
+    }
   },
   "nz": {
     "emoji_flag": "🇳🇿",
-    "name": "New Zealand"
+    "name": "New Zealand",
+    "localized_names": {
+      "ru": "Новая Зеландия",
+      "en": "New Zealand"
+    }
   },
   "om": {
     "emoji_flag": "🇴🇲",
-    "name": "Oman"
+    "name": "Oman",
+    "localized_names": {
+      "ru": "Оман",
+      "en": "Oman"
+    }
   },
   "pa": {
     "emoji_flag": "🇵🇦",
-    "name": "Panama"
+    "name": "Panama",
+    "localized_names": {
+      "ru": "Панама",
+      "en": "Panama"
+    }
   },
   "pe": {
     "emoji_flag": "🇵🇪",
-    "name": "Peru"
+    "name": "Peru",
+    "localized_names": {
+      "ru": "Перу",
+      "en": "Peru"
+    }
   },
   "pf": {
     "emoji_flag": "🇵🇫",
-    "name": "French Polynesia"
+    "name": "French Polynesia",
+    "localized_names": {
+      "ru": "Французская Полинезия",
+      "en": "French Polynesia"
+    }
   },
   "pg": {
     "emoji_flag": "🇵🇬",
-    "name": "Papua New Guinea"
+    "name": "Papua New Guinea",
+    "localized_names": {
+      "ru": "Папуа — Новая Гвинея",
+      "en": "Papua New Guinea"
+    }
   },
   "ph": {
     "emoji_flag": "🇵🇭",
-    "name": "Philippines"
+    "name": "Philippines",
+    "localized_names": {
+      "ru": "Филиппины",
+      "en": "Philippines"
+    }
   },
   "pk": {
     "emoji_flag": "🇵🇰",
-    "name": "Pakistan"
+    "name": "Pakistan",
+    "localized_names": {
+      "ru": "Пакистан",
+      "en": "Pakistan"
+    }
   },
   "pl": {
     "emoji_flag": "🇵🇱",
-    "name": "Poland"
+    "name": "Poland",
+    "localized_names": {
+      "ru": "Польша",
+      "en": "Poland"
+    }
   },
   "pm": {
     "emoji_flag": "🇵🇲",
-    "name": "Saint Pierre and Miquelon"
+    "name": "Saint Pierre and Miquelon",
+    "localized_names": {
+      "ru": "Сен-Пьер и Микелон",
+      "en": "Saint Pierre and Miquelon"
+    }
   },
   "pn": {
     "emoji_flag": "🇵🇳",
-    "name": "Pitcairn"
+    "name": "Pitcairn",
+    "localized_names": {
+      "ru": "Острова Питкэрн",
+      "en": "Pitcairn"
+    }
   },
   "pr": {
     "emoji_flag": "🇵🇷",
-    "name": "Puerto Rico"
+    "name": "Puerto Rico",
+    "localized_names": {
+      "ru": "Пуэрто-Рико",
+      "en": "Puerto Rico"
+    }
   },
   "ps": {
     "emoji_flag": "🇵🇸",
-    "name": "Palestinian Territory"
+    "name": "Palestinian Territory",
+    "localized_names": {
+      "ru": "Государство Палестина",
+      "en": "Palestinian Territory"
+    }
   },
   "pt": {
     "emoji_flag": "🇵🇹",
-    "name": "Portugal"
+    "name": "Portugal",
+    "localized_names": {
+      "ru": "Португалия",
+      "en": "Portugal"
+    }
   },
   "pw": {
     "emoji_flag": "🇵🇼",
-    "name": "Palau"
+    "name": "Palau",
+    "localized_names": {
+      "ru": "Палау",
+      "en": "Palau"
+    }
   },
   "py": {
     "emoji_flag": "🇵🇾",
-    "name": "Paraguay"
+    "name": "Paraguay",
+    "localized_names": {
+      "ru": "Парагвай",
+      "en": "Paraguay"
+    }
   },
   "qa": {
     "emoji_flag": "🇶🇦",
-    "name": "Qatar"
+    "name": "Qatar",
+    "localized_names": {
+      "ru": "Катар",
+      "en": "Qatar"
+    }
   },
   "re": {
     "emoji_flag": "🇷🇪",
-    "name": "Réunion"
+    "name": "Réunion",
+    "localized_names": {
+      "ru": "Реюньон",
+      "en": "Réunion"
+    }
   },
   "ro": {
     "emoji_flag": "🇷🇴",
-    "name": "Romania"
+    "name": "Romania",
+    "localized_names": {
+      "ru": "Румыния",
+      "en": "Romania"
+    }
   },
   "rs": {
     "emoji_flag": "🇷🇸",
-    "name": "Serbia"
+    "name": "Serbia",
+    "localized_names": {
+      "ru": "Сербия",
+      "en": "Serbia"
+    }
   },
   "ru": {
     "emoji_flag": "🇷🇺",
-    "name": "Russia"
+    "name": "Russia",
+    "localized_names": {
+      "ru": "Россия",
+      "en": "Russia"
+    }
   },
   "rw": {
     "emoji_flag": "🇷🇼",
-    "name": "Rwanda"
+    "name": "Rwanda",
+    "localized_names": {
+      "ru": "Руанда",
+      "en": "Rwanda"
+    }
   },
   "sa": {
     "emoji_flag": "🇸🇦",
-    "name": "Saudi Arabia"
+    "name": "Saudi Arabia",
+    "localized_names": {
+      "ru": "Саудовская Аравия",
+      "en": "Saudi Arabia"
+    }
   },
   "sb": {
     "emoji_flag": "🇸🇧",
-    "name": "Solomon Islands"
+    "name": "Solomon Islands",
+    "localized_names": {
+      "ru": "Соломоновы Острова",
+      "en": "Solomon Islands"
+    }
   },
   "sc": {
     "emoji_flag": "🇸🇨",
-    "name": "Seychelles"
+    "name": "Seychelles",
+    "localized_names": {
+      "ru": "Сейшельские Острова",
+      "en": "Seychelles"
+    }
   },
   "sd": {
     "emoji_flag": "🇸🇩",
-    "name": "Sudan"
+    "name": "Sudan",
+    "localized_names": {
+      "ru": "Судан",
+      "en": "Sudan"
+    }
   },
   "se": {
     "emoji_flag": "🇸🇪",
-    "name": "Sweden"
+    "name": "Sweden",
+    "localized_names": {
+      "ru": "Швеция",
+      "en": "Sweden"
+    }
   },
   "sg": {
     "emoji_flag": "🇸🇬",
-    "name": "Singapore"
+    "name": "Singapore",
+    "localized_names": {
+      "ru": "Сингапур",
+      "en": "Singapore"
+    }
   },
   "sh": {
     "emoji_flag": "🇸🇭",
-    "name": "Saint Helena, Ascension and Tristan Da Cunha"
+    "name": "Saint Helena, Ascension and Tristan Da Cunha",
+    "localized_names": {
+      "ru": "Острова Святой Елены, Вознесения и Тристан-да-Кунья",
+      "en": "Saint Helena, Ascension and Tristan Da Cunha"
+    }
   },
   "si": {
     "emoji_flag": "🇸🇮",
-    "name": "Slovenia"
+    "name": "Slovenia",
+    "localized_names": {
+      "ru": "Словения",
+      "en": "Slovenia"
+    }
   },
   "sj": {
     "emoji_flag": "🇸🇯",
-    "name": "Svalbard and Jan Mayen"
+    "name": "Svalbard and Jan Mayen",
+    "localized_names": {
+      "ru": "Шпицберген и Ян-Майен",
+      "en": "Svalbard and Jan Mayen"
+    }
   },
   "sk": {
     "emoji_flag": "🇸🇰",
-    "name": "Slovakia"
+    "name": "Slovakia",
+    "localized_names": {
+      "ru": "Словакия",
+      "en": "Slovakia"
+    }
   },
   "sl": {
     "emoji_flag": "🇸🇱",
-    "name": "Sierra Leone"
+    "name": "Sierra Leone",
+    "localized_names": {
+      "ru": "Сьерра-Леоне",
+      "en": "Sierra Leone"
+    }
   },
   "sm": {
     "emoji_flag": "🇸🇲",
-    "name": "San Marino"
+    "name": "San Marino",
+    "localized_names": {
+      "ru": "Сан-Марино",
+      "en": "San Marino"
+    }
   },
   "sn": {
     "emoji_flag": "🇸🇳",
-    "name": "Senegal"
+    "name": "Senegal",
+    "localized_names": {
+      "ru": "Сенегал",
+      "en": "Senegal"
+    }
   },
   "so": {
     "emoji_flag": "🇸🇴",
-    "name": "Somalia"
+    "name": "Somalia",
+    "localized_names": {
+      "ru": "Сомали",
+      "en": "Somalia"
+    }
   },
   "sr": {
     "emoji_flag": "🇸🇷",
-    "name": "Suriname"
+    "name": "Suriname",
+    "localized_names": {
+      "ru": "Суринам",
+      "en": "Suriname"
+    }
   },
   "ss": {
     "emoji_flag": "🇸🇸",
-    "name": "South Sudan"
+    "name": "South Sudan",
+    "localized_names": {
+      "ru": "Южный Судан",
+      "en": "South Sudan"
+    }
   },
   "st": {
     "emoji_flag": "🇸🇹",
-    "name": "Sao Tome and Principe"
+    "name": "Sao Tome and Principe",
+    "localized_names": {
+      "ru": "Сан-Томе и Принсипи",
+      "en": "Sao Tome and Principe"
+    }
   },
   "sv": {
     "emoji_flag": "🇸🇻",
-    "name": "El Salvador"
+    "name": "El Salvador",
+    "localized_names": {
+      "ru": "Сальвадор",
+      "en": "El Salvador"
+    }
   },
   "sx": {
     "emoji_flag": "🇸🇽",
-    "name": "Sint Maarten (Dutch Part)"
+    "name": "Sint Maarten (Dutch Part)",
+    "localized_names": {
+      "ru": "Синт-Мартен",
+      "en": "Sint Maarten (Dutch Part)"
+    }
   },
   "sy": {
     "emoji_flag": "🇸🇾",
-    "name": "Syrian Arab Republic"
+    "name": "Syrian Arab Republic",
+    "localized_names": {
+      "ru": "Сирия",
+      "en": "Syrian Arab Republic"
+    }
   },
   "sz": {
     "emoji_flag": "🇸🇿",
-    "name": "Swaziland"
+    "name": "Swaziland",
+    "localized_names": {
+      "ru": "Свазиленд",
+      "en": "Swaziland"
+    }
   },
   "tc": {
     "emoji_flag": "🇹🇨",
-    "name": "Turks and Caicos Islands"
+    "name": "Turks and Caicos Islands",
+    "localized_names": {
+      "ru": "Тёркс и Кайкос",
+      "en": "Turks and Caicos Islands"
+    }
   },
   "td": {
     "emoji_flag": "🇹🇩",
-    "name": "Chad"
+    "name": "Chad",
+    "localized_names": {
+      "ru": "Чад",
+      "en": "Chad"
+    }
   },
   "tf": {
     "emoji_flag": "🇹🇫",
-    "name": "French Southern Territories"
+    "name": "French Southern Territories",
+    "localized_names": {
+      "ru": "Французские Южные и Антарктические Территории",
+      "en": "French Southern Territories"
+    }
   },
   "tg": {
     "emoji_flag": "🇹🇬",
-    "name": "Togo"
+    "name": "Togo",
+    "localized_names": {
+      "ru": "Того",
+      "en": "Togo"
+    }
   },
   "th": {
     "emoji_flag": "🇹🇭",
-    "name": "Thailand"
+    "name": "Thailand",
+    "localized_names": {
+      "ru": "Таиланд",
+      "en": "Thailand"
+    }
   },
   "tj": {
     "emoji_flag": "🇹🇯",
-    "name": "Tajikistan"
+    "name": "Tajikistan",
+    "localized_names": {
+      "ru": "Таджикистан",
+      "en": "Tajikistan"
+    }
   },
   "tk": {
     "emoji_flag": "🇹🇰",
-    "name": "Tokelau"
+    "name": "Tokelau",
+    "localized_names": {
+      "ru": "Токелау",
+      "en": "Tokelau"
+    }
   },
   "tl": {
     "emoji_flag": "🇹🇱",
-    "name": "Timor-Leste"
+    "name": "Timor-Leste",
+    "localized_names": {
+      "ru": "Восточный Тимор",
+      "en": "Timor-Leste"
+    }
   },
   "tm": {
     "emoji_flag": "🇹🇲",
-    "name": "Turkmenistan"
+    "name": "Turkmenistan",
+    "localized_names": {
+      "ru": "Туркмения",
+      "en": "Turkmenistan"
+    }
   },
   "tn": {
     "emoji_flag": "🇹🇳",
-    "name": "Tunisia"
+    "name": "Tunisia",
+    "localized_names": {
+      "ru": "Тунис",
+      "en": "Tunisia"
+    }
   },
   "to": {
     "emoji_flag": "🇹🇴",
-    "name": "Tonga"
+    "name": "Tonga",
+    "localized_names": {
+      "ru": "Тонга",
+      "en": "Tonga"
+    }
   },
   "tr": {
     "emoji_flag": "🇹🇷",
-    "name": "Turkey"
+    "name": "Turkey",
+    "localized_names": {
+      "ru": "Турция",
+      "en": "Turkey"
+    }
   },
   "tt": {
     "emoji_flag": "🇹🇹",
-    "name": "Trinidad and Tobago"
+    "name": "Trinidad and Tobago",
+    "localized_names": {
+      "ru": "Тринидад и Тобаго",
+      "en": "Trinidad and Tobago"
+    }
   },
   "tv": {
     "emoji_flag": "🇹🇻",
-    "name": "Tuvalu"
+    "name": "Tuvalu",
+    "localized_names": {
+      "ru": "Тувалу",
+      "en": "Tuvalu"
+    }
   },
   "tw": {
     "emoji_flag": "🇹🇼",
-    "name": "Taiwan"
+    "name": "Taiwan",
+    "localized_names": {
+      "ru": "Китайская Республика",
+      "en": "Taiwan"
+    }
   },
   "tz": {
     "emoji_flag": "🇹🇿",
-    "name": "Tanzania"
+    "name": "Tanzania",
+    "localized_names": {
+      "ru": "Танзания",
+      "en": "Tanzania"
+    }
   },
   "ua": {
     "emoji_flag": "🇺🇦",
-    "name": "Ukraine"
+    "name": "Ukraine",
+    "localized_names": {
+      "ru": "Украина",
+      "en": "Ukraine"
+    }
   },
   "ug": {
     "emoji_flag": "🇺🇬",
-    "name": "Uganda"
+    "name": "Uganda",
+    "localized_names": {
+      "ru": "Уганда",
+      "en": "Uganda"
+    }
   },
   "um": {
     "emoji_flag": "🇺🇲",
-    "name": "United States Minor Outlying Islands"
+    "name": "United States Minor Outlying Islands",
+    "localized_names": {
+      "ru": "Внешние малые острова (США)",
+      "en": "United States Minor Outlying Islands"
+    }
   },
   "us": {
     "emoji_flag": "🇺🇸",
-    "name": "United States"
+    "name": "United States",
+    "localized_names": {
+      "ru": "США",
+      "en": "United States"
+    }
   },
   "uy": {
     "emoji_flag": "🇺🇾",
-    "name": "Uruguay"
+    "name": "Uruguay",
+    "localized_names": {
+      "ru": "Уругвай",
+      "en": "Uruguay"
+    }
   },
   "uz": {
     "emoji_flag": "🇺🇿",
-    "name": "Uzbekistan"
+    "name": "Uzbekistan",
+    "localized_names": {
+      "ru": "Узбекистан",
+      "en": "Uzbekistan"
+    }
   },
   "va": {
     "emoji_flag": "🇻🇦",
-    "name": "Vatican City"
+    "name": "Vatican City",
+    "localized_names": {
+      "ru": "Ватикан",
+      "en": "Vatican City"
+    }
   },
   "vc": {
     "emoji_flag": "🇻🇨",
-    "name": "Saint Vincent and The Grenadines"
+    "name": "Saint Vincent and The Grenadines",
+    "localized_names": {
+      "ru": "Сент-Винсент и Гренадины",
+      "en": "Saint Vincent and The Grenadines"
+    }
   },
   "ve": {
     "emoji_flag": "🇻🇪",
-    "name": "Venezuela"
+    "name": "Venezuela",
+    "localized_names": {
+      "ru": "Венесуэла",
+      "en": "Venezuela"
+    }
   },
   "vg": {
     "emoji_flag": "🇻🇬",
-    "name": "Virgin Islands, British"
+    "name": "Virgin Islands, British",
+    "localized_names": {
+      "ru": "Виргинские Острова (Великобритания)",
+      "en": "Virgin Islands, British"
+    }
   },
   "vi": {
     "emoji_flag": "🇻🇮",
-    "name": "Virgin Islands, U.S."
+    "name": "Virgin Islands, U.S.",
+    "localized_names": {
+      "ru": "Виргинские Острова (США)",
+      "en": "Virgin Islands, U.S."
+    }
   },
   "vn": {
     "emoji_flag": "🇻🇳",
-    "name": "Viet Nam"
+    "name": "Viet Nam",
+    "localized_names": {
+      "ru": "Вьетнам",
+      "en": "Viet Nam"
+    }
   },
   "vu": {
     "emoji_flag": "🇻🇺",
-    "name": "Vanuatu"
+    "name": "Vanuatu",
+    "localized_names": {
+      "ru": "Вануату",
+      "en": "Vanuatu"
+    }
   },
   "wf": {
     "emoji_flag": "🇼🇫",
-    "name": "Wallis and Futuna"
+    "name": "Wallis and Futuna",
+    "localized_names": {
+      "ru": "Уоллис и Футуна",
+      "en": "Wallis and Futuna"
+    }
   },
   "ws": {
     "emoji_flag": "🇼🇸",
-    "name": "Samoa"
+    "name": "Samoa",
+    "localized_names": {
+      "ru": "Самоа",
+      "en": "Samoa"
+    }
   },
   "ye": {
     "emoji_flag": "🇾🇪",
-    "name": "Yemen"
+    "name": "Yemen",
+    "localized_names": {
+      "ru": "Йемен",
+      "en": "Yemen"
+    }
   },
   "yt": {
     "emoji_flag": "🇾🇹",
-    "name": "Mayotte"
+    "name": "Mayotte",
+    "localized_names": {
+      "ru": "Майотта",
+      "en": "Mayotte"
+    }
   },
   "za": {
     "emoji_flag": "🇿🇦",
-    "name": "South Africa"
+    "name": "South Africa",
+    "localized_names": {
+      "ru": "ЮАР",
+      "en": "South Africa"
+    }
   },
   "zm": {
     "emoji_flag": "🇿🇲",
-    "name": "Zambia"
+    "name": "Zambia",
+    "localized_names": {
+      "ru": "Замбия",
+      "en": "Zambia"
+    }
   },
   "zw": {
     "emoji_flag": "🇿🇼",
-    "name": "Zimbabwe"
+    "name": "Zimbabwe",
+    "localized_names": {
+      "ru": "Зимбабве",
+      "en": "Zimbabwe"
+    }
   }
 }
